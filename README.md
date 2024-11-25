@@ -24,9 +24,7 @@ A Python script for validating Roblox usernames through the Roblox API. This too
 pip install requests
 '''
 
-## Usage
-
-### Run the script:
+## Run the script:
 '''
 python validator.py
 '''
@@ -34,7 +32,6 @@ python validator.py
 
 
 ## Author
-
 GitHub: sir-sv7
 Instagram: sir.sv7
 Discord: u_nt
