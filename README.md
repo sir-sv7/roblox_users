@@ -18,16 +18,16 @@ A Python script for validating Roblox usernames through the Roblox API. This too
    git clone https://github.com/sir-sv7/roblox-username-validator.git
    cd roblox-username-validator
 
-## Install the required dependencies
+2. Install the required dependencies
 
-'''
-pip install requests
-'''
+   ```bash
+   pip install requests
+
 
 ## Run the script:
-'''
+```bash
 python validator.py
-'''
+
 
 
 
