@@ -23,15 +23,12 @@ A Python script for validating Roblox usernames through the Roblox API. This too
    ```bash
    pip install requests
 
-
 3. Run the script:
+
    ```bash
-python validator.py
-
-
-
+   python validator.py
 
 ## Author
-GitHub: sir-sv7
-Instagram: sir.sv7
-Discord: u_nt
++. GitHub: sir-sv7
++. Instagram: sir.sv7
++. Discord: u_nt
