@@ -24,8 +24,8 @@ A Python script for validating Roblox usernames through the Roblox API. This too
    pip install requests
 
 
-## Run the script:
-```bash
+3. Run the script:
+   ```bash
 python validator.py
 
 
