@@ -29,6 +29,7 @@ A Python script for validating Roblox usernames through the Roblox API. This too
    python validator.py
 
 ## Author
-+. GitHub: sir-sv7
-+. Instagram: sir.sv7
-+. Discord: u_nt
+
+1. GitHub: sir-sv7
+2. Instagram: sir.sv7
+3. Discord: u_nt
